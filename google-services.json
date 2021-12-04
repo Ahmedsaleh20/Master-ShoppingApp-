@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867924453774",
+    "project_id": "shopping-app-c5237",
+    "storage_bucket": "shopping-app-c5237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867924453774:android:2daa557cec285cf8a75cdf",
+        "android_client_info": {
+          "package_name": "com.santosenoque.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867924453774-a8sugpp5ppcvampqeaauorg13enogks5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEdZgqViCmW-MLWNULYw2A15rTKulKPhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867924453774-a8sugpp5ppcvampqeaauorg13enogks5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
